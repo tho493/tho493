@@ -9,7 +9,7 @@
 
 ### Interests:
 - Volunteer
-- Learn new leanguages 😂
+- Learn new languages 😂
 
 ### Contact with me:
 [<img align="left" alt="tho493 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
