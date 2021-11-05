@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=23&center=true&lines=Hi+there%2CI'm+tho493!;Welcome+to+my+Github!)](https://github.com/tho493)
 
-<!--
-**tho493/tho493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media0.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="23"> More info about me...
+- I'm a student at Sao Đỏ university
+- I'm 18 years old
+- WIP
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=tho493&&show_icons=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests:
+- Volunteer
+- Learn new leanguages 😂
+
+### Contact with me:
+[<img align="left" alt="tho493 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="tho_493 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tho_493 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+[instagram]: https://www.instagram.com/tho_493
+[facebook]: https://www.facebook.com/tho493
+[telegram]: https://t.me/tho43
