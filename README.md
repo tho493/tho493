@@ -15,8 +15,11 @@
 [<img align="left" alt="tho493 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="tho_493 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="tho_493 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="chitho040903@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 <br />
 
 [instagram]: https://www.instagram.com/tho_493
 [facebook]: https://www.facebook.com/tho493
 [telegram]: https://t.me/tho43
+[gmail]: https://mail.google.com/mail/u/?authuser=chitho040903@gmail.com
