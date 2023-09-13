@@ -2,7 +2,7 @@
 
 ### <img src="https://media0.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="23"> More info about me...
 - I'm a student at Sao Đỏ university
-- I'm 18 years old
+- I'm 20 years old
 - WIP
 
 <img src="https://github-readme-stats.vercel.app/api?username=tho493&&show_icons=true">
