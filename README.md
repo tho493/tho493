@@ -3,8 +3,8 @@
 # <img src="https://media0.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="23"> More info about me...
 
 - I'm a student at Sao Đỏ university
-- I'm 21 years old
-- WIP
+- I'm 22 years old
+- Backend Deverloper
 
 ## Git Stats
 
